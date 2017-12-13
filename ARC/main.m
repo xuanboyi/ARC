@@ -12,7 +12,8 @@ int main(int argc, const char * argv[]) {
     @autoreleasepool {
         Person *p1 = [[Person alloc]init];
         NSLog(@"xx ");
-        
+     
     }
+    NSLog(@"yy");
     return 0;
 }
